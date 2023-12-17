@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terryonskeet" alt="terryonskeet" /></a> </p>
 
-- 🔭 I’m currently working on **Terry Attacker**
+- 🔭 I’m currently working on **Terry Attacker** & **Discord Nuke Bot**
 
 - 🌱 I’m currently learning **Lua**
 
